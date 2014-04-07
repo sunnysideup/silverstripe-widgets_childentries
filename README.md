@@ -1,6 +1,10 @@
-###############################################
+
 Child Blog Entries
-###############################################
+================================================================================
+
+
+shows the child blog entries
+Blog entries that are child pages
 
 Maintainer Contact
 -----------------------------------------------
@@ -8,13 +12,19 @@ nicolaas [at] sunnysideup.co.nz
 
 Requirements
 -----------------------------------------------
-SS 2.3+
+see composer.json
+
 
 
 Documentation
 -----------------------------------------------
-shows the child blog entries
-Blog entries that are child pages
+Please contact author for more details.
+
+Any bug reports and/or feature requests will be
+looked at
+
+We are also very happy to provide personalised support
+for this module in exchange for a small donation.
 
 
 Installation Instructions
