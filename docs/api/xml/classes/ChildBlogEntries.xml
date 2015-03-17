@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="ChildBlogEntries" namespace="" name="ChildBlogEntries" abstract="false" final="false" start="8" end="47">
+  <file path="/var/www/_modules/widgets_childentries/trunk/docs/en/phpdox/../../.." file="ChildBlogEntries.php" realpath="/var/www/_modules/widgets_childentries/trunk/ChildBlogEntries.php" size="1129" time="2015-03-14T10:23:17+13:00" unixtime="1426281797" sha1="21e377c1da9fc856ca2cf2bf737dd560bb5ebf87" relative="ChildBlogEntries.php"/>
+  <docblock>
+    <description compact="Shows a widget with viewing blog entries by months or years."/>
+    <package value="blog"/>
+  </docblock>
+  <extends full="Widget" namespace="" name="Widget"/>
+  <member name="db" type="array" visibility="public" line="10"/>
+  <member name="has_one" type="array" visibility="public" line="13"/>
+  <member name="has_many" type="array" visibility="public" line="15"/>
+  <member name="many_many" type="array" visibility="public" line="17"/>
+  <member name="belongs_many_many" type="array" visibility="public" line="19"/>
+  <member name="defaults" type="array" visibility="public" line="21"/>
+  <member name="title" type="string" default="'Child Blog Entries'" visibility="public" line="25"/>
+  <member name="cmsTitle" type="string" default="'Child Blog Entries'" visibility="public" line="27"/>
+  <member name="description" type="string" default="'Show a list of latest child blog entries.'" visibility="public" line="29"/>
+  <method name="getCMSFields" start="31" end="35" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="Links" start="37" end="45" abstract="false" final="false" static="false" visibility="public"/>
+</class>

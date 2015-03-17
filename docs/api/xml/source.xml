@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/widgets_childentries/trunk">
+    <file name="_config.php" size="448" time="2015-03-14T10:23:17+13:00" unixtime="1426281797" sha1="432e578f9b27a881b16bc7c3b968bf10b32b83d8" xml="tokens/_config.php.xml"/>
+    <file name="ChildBlogEntries.php" size="1129" time="2015-03-14T10:23:17+13:00" unixtime="1426281797" sha1="21e377c1da9fc856ca2cf2bf737dd560bb5ebf87" xml="tokens/ChildBlogEntries.php.xml"/>
+  </dir>
+</source>
