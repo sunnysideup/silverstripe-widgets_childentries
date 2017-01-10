@@ -1,44 +1,72 @@
+# Silverstripe widgets childentries module
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-widgets_childentries.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-widgets_childentries)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-widgets_childentries/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-widgets_childentries/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-widgets_childentries/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-widgets_childentries?branch=master)
+![helpfulrobot](https://helpfulrobot.io/sunnysideup/widgets_childentries/badge)
 
-Child Blog Entries
-================================================================================
+[![Latest Stable Version](https://poser.pugx.org/sunnysideup/widgets_childentries/version)](https://packagist.org/packages/sunnysideup/widgets_childentries)
+[![License](https://poser.pugx.org/sunnysideup/widgets_childentries/license)](https://packagist.org/packages/sunnysideup/widgets_childentries)
+[![Monthly Downloads](https://poser.pugx.org/sunnysideup/widgets_childentries/d/monthly)](https://packagist.org/packages/sunnysideup/widgets_childentries)
 
 
-shows the child blog entries
-Blog entries that are child pages
-
-Maintainer Contact
------------------------------------------------
-nicolaas [at] sunnysideup.co.nz
-
-Requirements
------------------------------------------------
-see composer.json
+## Documentation
 
 
 
-Documentation
------------------------------------------------
-Please contact author for more details.
+ * [Developer Docs](docs/en/INDEX.md)
+ * [User Guide](docs/en/userguide.md)
+ * [API](http://ssmods.com/apis/widgets_childentries/docs/en/api/)
 
-Any bug reports and/or feature requests will be
-looked at
-
-We are also very happy to provide personalised support
-for this module in exchange for a small donation.
-
-
-Installation Instructions
------------------------------------------------
-1. Find out how to add widgets to SS and add widget as per usual.
-2. Review configs and add entries to mysite/_config/config.yml
-(or similar) as necessary.
-In the _config/ folder of this module
-you can usually find some examples of config options (if any).
-
-
-Usage Overview
------------------------------------------------
+## Requirements
 
 
 
+see [composer.json](composer.json) for details
 
+### Suggested Modules
+
+
+
+see [composer.json](composer.json) for details
+
+
+## Installation
+
+
+```
+composer require sunnysideup/widgets_childentries
+```
+
+### Configuration
+
+
+
+In the `_config` folder you will find the `widgets_childentries.yml.example`
+file that shows options for the configuration of this module.
+
+We recommend that you:
+
+  1. copy these `widgets_childentries.yml.example` files into your
+`mysite/_config` folder
+  2. remove the .example extension
+  3. delete the lines you not care about, and
+  4. adjust the configurations that you would like to use.
+
+
+## Contributing
+
+
+
+We welcome any contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## Paid assistance
+
+
+
+You can pay us to create an improved / adapted version of this module for your own projects.  Please contact us if you like to find out more: [www.sunnysideup.co.nz](http://www.sunnysideup.co.nz)
+
+## Author
+
+
+
+Sunny Side Up Ltd.
