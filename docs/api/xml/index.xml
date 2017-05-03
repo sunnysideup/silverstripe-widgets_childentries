@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgets_childentries/trunk">
-  <namespace name="">
-    <class name="ChildBlogEntries" src="ChildBlogEntries.php" description="Shows a widget with viewing blog entries by months or years." xml="classes/ChildBlogEntries.xml"/>
-  </namespace>
-</index>
